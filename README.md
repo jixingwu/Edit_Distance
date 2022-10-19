@@ -1,0 +1,1 @@
+The repository is used to release unofficial code for "Topolog aware  object-level semantic mapping towards more robust loop closure" for comparison. The programs of visible object detection and initial pose estimation are [VisualDet3D](https://github.com/Owen-Liuyuxuan/visualDet3D) and [VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) respectively.
