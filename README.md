@@ -65,7 +65,7 @@ The executable program will output the minimum edit distance between graph1 and 
 
 ## Related Paper:
 
-if you think the code is useful, please cite the following papers.
+if you think the repository and codes are useful, please cite the following papers.
 
 ```bash
 @ARTICLE{9327478,
